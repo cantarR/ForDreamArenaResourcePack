@@ -1,0 +1,16 @@
+{
+	"parent":"item/generated",
+	"textures":{"layer0":"item/totem_of_undying"},
+	"overrides":
+	[
+		{"predicate":{"custom_model_data":1},"model":"item/totem/kite"},
+		{"predicate":{"custom_model_data":2},"model":"item/totem/rancon"},
+		{"predicate":{"custom_model_data":3},"model":"item/totem/loris"},
+		{"predicate":{"custom_model_data":4},"model":"item/totem/snh"}
+	],
+	"display": {
+		"ground": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

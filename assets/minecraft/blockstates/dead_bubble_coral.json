@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "waterlogged=false": { "model": "minecraft:block/warped_roots" },
+		"waterlogged=true": { "model": "block/dead_fire_coral" }
+	}
+}

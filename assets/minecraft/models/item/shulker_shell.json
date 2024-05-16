@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+    "parent": "item/lobby_button",
+	"textures": {
+		"0": "move/setting_lock",
+		"1": "move/vip_setting",
+		"particle": "move/setting_lock"
+	},
+	"overrides":
+	[
+		{"predicate":{"custom_model_data":1},"model":"item/shulker_shell_c1"}
+	]
+}

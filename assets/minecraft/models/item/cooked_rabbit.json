@@ -1,0 +1,8 @@
+{
+	"parent":"item/trident_swing",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "move/trident_orange",
+		"particle": "move/trident_orange"
+	}
+}

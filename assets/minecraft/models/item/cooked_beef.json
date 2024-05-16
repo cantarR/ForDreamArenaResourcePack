@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+    "parent": "item/lobby_button_face",
+	"textures": {
+		"0": "move/setting_pl",
+		"1": "move/vip_setting",
+		"2": "move/setting_pla",
+		"particle": "move/setting_pla"
+	}
+}

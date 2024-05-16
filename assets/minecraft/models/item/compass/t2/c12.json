@@ -1,0 +1,7 @@
+{
+	"parent": "item/compass/t1/c12",
+	"textures": {
+		"3": "move/compassheart2",
+		"4": "move/compass0"
+	}
+}

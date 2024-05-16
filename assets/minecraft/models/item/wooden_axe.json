@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_axe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [0, 4, 0.5],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0, 4, 0.5],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"head": {
+			"rotation": [0, 90, 55],
+			"translation": [0, -7, -4],
+			"scale": [1.8, -1.8, -1.8]
+		}
+	}
+}

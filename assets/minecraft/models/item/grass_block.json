@@ -1,0 +1,9 @@
+{
+    "parent": "block/grass_block",
+	"display": {
+		"head": {
+			"translation": [0, -36, 0],
+			"scale": [1.2, 1.2, 1.2]
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "minecraft:block/waterfall_topstone"
+      },
+      {
+        "model": "minecraft:block/waterfall_topstone",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/waterfall_topstone",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/waterfall_topstone",
+        "y": 270
+      }
+	]
+  }
+}

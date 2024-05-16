@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "persistent=true": {
+      "model": "minecraft:block/flowering_azalea_leaves"
+    },
+    "persistent=false": {
+      "model": "minecraft:block/spruce_leaves_snowy"
+    }
+  }
+}

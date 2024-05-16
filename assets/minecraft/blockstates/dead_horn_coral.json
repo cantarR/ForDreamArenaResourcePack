@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "waterlogged=false": { "model": "minecraft:block/horn_coral_fan" },
+		"waterlogged=true": { "model": "block/dead_fire_coral" }
+	}
+}

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "waterlogged=false": [
+            { "model": "block/potted_buttercup" },
+            { "model": "block/potted_buttercup", "y": 90 },
+            { "model": "block/potted_buttercup", "y": 180 },
+            { "model": "block/potted_buttercup", "y": 270 }
+        ],
+		"waterlogged=true": { "model": "block/dead_fire_coral" }
+	}
+}

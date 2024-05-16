@@ -1,0 +1,6 @@
+{
+    "parent": "item/layer1",
+	"textures": {
+		"layer0": "misc/layer23"
+	}
+}

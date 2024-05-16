@@ -1,0 +1,8 @@
+{
+	"parent":"item/glowstone_dust",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "move/blue_heart",
+		"particle": "move/blue_heart"
+	}
+}

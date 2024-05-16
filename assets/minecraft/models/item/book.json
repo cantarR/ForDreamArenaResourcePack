@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/magma_cream",
+	"textures": {
+		"1": "move/fireball_green"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -33, 0],
+			"scale": [2.25, 2.25, 2.25]
+		}
+	}
+}

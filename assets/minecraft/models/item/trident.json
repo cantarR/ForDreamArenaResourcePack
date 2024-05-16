@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/trident_throw",
+	"textures": {
+		"0": "move/trident_orange",
+		"particle": "move/trident_orange"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

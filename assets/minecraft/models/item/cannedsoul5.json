@@ -1,0 +1,11 @@
+{
+	"parent":"item/cannedsoul1",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "move/yellow_heart",
+		"1": "move/can",
+		"2": "move/canglass2",
+		"3": "move/canglass",
+		"particle": "move/can"
+	}
+}

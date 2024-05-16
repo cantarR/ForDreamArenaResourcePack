@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+    "parent": "item/lobby_button",
+	"textures": {
+		"0": "move/setting_on",
+		"1": "move/vip_setting",
+		"particle": "move/setting_on"
+	}
+}

@@ -1,0 +1,81 @@
+{
+	"entity.enderman.warp": {
+    "sounds": [
+      {
+        "name": "mob/enderman/warp",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.ambient.cave"
+	},
+	"entity.pillager.celebrate": {
+	"replace": true,
+    "sounds": [
+      {
+        "name": "mob/pillager/celebrate1",
+        "volume": 1
+      },
+      {
+        "name": "mob/pillager/celebrate2",
+        "volume": 1
+      },
+      {
+        "name": "mob/pillager/celebrate3",
+        "volume": 1
+      },
+      {
+        "name": "mob/pillager/celebrate4",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.entity.pillager.celebrate"
+	},
+	"item.armor.equip_generic": {
+	"replace": true
+	},
+	"item.armor.equip_alternative": {
+    "sounds": [
+      "item/armor/equip_generic1",
+      "item/armor/equip_generic2",
+      "item/armor/equip_generic3",
+      "item/armor/equip_generic4",
+      "item/armor/equip_generic5",
+      "item/armor/equip_generic6"
+    ],
+    "subtitle": "subtitles.item.armor.equip"
+	},
+	"entity.wither.spawn": {
+	"replace": true,
+    "sounds": [
+	{
+		"name": "mob/wither/spawn",
+		"volume": 0.2
+	}
+    ],
+    "subtitle": "subtitles.entity.wither.spawn"
+	},
+	"item.armor.equip_leather": {
+	"replace": true
+	},
+	"item.armor.equip_chain": {
+	"replace": true
+	},
+	"item.armor.equip_iron": {
+	"replace": true
+	},
+	"item.armor.equip_gold": {
+	"replace": true
+	},
+	"item.armor.equip_diamond": {
+	"replace": true
+	},
+	"item.armor.equip_netherite": {
+	"replace": true
+	},
+	"item.armor.equip_turtle": {
+	"replace": true
+	},
+	"item.armor.equip_elytra": {
+	"replace": true
+	} 
+}
