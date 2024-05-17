@@ -2541,5 +2541,25 @@
 	"adv.credit.nohit.lore": "在特殊事件中避开所有的攻击",
 	"adv.credit.nohit.unlock": "奖励：Sans（乱斗竞技场）",
 	"adv.credit.itsyou": "熟悉的面容",
-	"adv.credit.itsyou.lore": "在铭谢居室中找到你的头颅（感谢你！）"
+	"adv.credit.itsyou.lore": "在铭谢居室中找到你的头颅（感谢你！）",
+
+	"doll.kite.lore1": "竞技场§m唯一指定§r美工。",
+	"doll.kite.1": "§8''yysy，你们的素材载到了我手里，§r",
+	"doll.kite.2": "§8都会变得面目全非👿§r",
+
+	"doll.loris.lore1": "一位闲逸的旅者，最初的筑梦人。",
+	"doll.loris.1": "§8''你们口嗨的数值和设定到了实战§r",
+	"doll.loris.2": "§8我一个个都砍了''§r",
+
+	"doll.snh.lore1": "神秘而强大的浪人，探险者，炼金",
+	"doll.snh.lore2": "术士，诸多不幸者中的一个。",
+	"doll.snh.1": "§5''愿黑暗中仍存光芒''§r",
+	"doll.snh.2": "§8''愿绝望中仍存希望''§r",
+	"doll.snh.3": "§5''而你已身处暖阳''§r",
+	"doll.snh.4": "§8''而你已身处暖阳''§r",
+
+	"chr.rancon.true": "烛白",
+	"doll.rancon.lore1": "竞技场的麻烦制造者，时常带来",
+	"doll.rancon.lore2": "各种难以解决的新问题。",
+	"doll.rancon.1": "§8''啊？这怎么会有问题的''§r"
 }

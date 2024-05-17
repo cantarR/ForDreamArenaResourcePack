@@ -2541,5 +2541,25 @@
 	"adv.credit.nohit.lore": "在特殊事件中避開所有的攻擊",
 	"adv.credit.nohit.unlock": "奬勵：Sans (亂鬥競技場)",
 	"adv.credit.itsyou": "熟悉的面容",
-	"adv.credit.itsyou.lore": "在銘謝房間中找到你的頭顱 (感謝你!)"
+	"adv.credit.itsyou.lore": "在銘謝房間中找到你的頭顱 (感謝你!)",
+
+	"doll.kite.lore1": "競技場§m唯一指定§r美工。",
+	"doll.kite.1": "§8''yysy，你們的素材載到了我手裏，§r",
+	"doll.kite.2": "§8都會變得面目全非👿§r",
+
+	"doll.loris.lore1": "一位閑逸的旅者，最初的築夢人。",
+	"doll.loris.1": "§8''你們口嗨的數值和設定到了實戰§r",
+	"doll.loris.2": "§8我一個個都砍了''§r",
+
+	"doll.snh.lore1": "神秘而強大的浪人，探險者，煉金",
+	"doll.snh.lore2": "術士，諸多不幸者中的一個。",
+	"doll.snh.1": "§5''願黑暗中仍存光芒''§r",
+	"doll.snh.2": "§8''願絕望中仍存希望''§r",
+	"doll.snh.3": "§5''而你已身處暖陽''§r",
+	"doll.snh.4": "§8''而你已身處暖陽''§r",
+
+	"chr.rancon.true": "燭白",
+	"doll.rancon.lore1": "競技場的麻煩製造者，時常帶來",
+	"doll.rancon.lore2": "各種難以解決的新問題。",
+	"doll.rancon.1": "§8''啊？這怎麽會有問題的''§r"
 }
