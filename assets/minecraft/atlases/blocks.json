@@ -1066,6 +1066,10 @@
         },
         {
             "type": "single",
+            "resource": "cua:skin/al_1s"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:move/angela_book_01"
         },
         {
