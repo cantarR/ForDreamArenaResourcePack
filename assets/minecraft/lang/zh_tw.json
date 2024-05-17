@@ -1297,7 +1297,7 @@
 	"chr.ntfrisk.lore4": "人的意誌力，擊垮敵人。",
 	"ntfrisk.passive":"冒險精神",
 	"chr.ntfrisk.passive1": "Frisk會獲得一個藏寶圖第四技能。",
-	"chr.ntfrisk.passive2": "當目標敵人意誌力小於40％時，對",
+	"chr.ntfrisk.passive2": "當目標敵人意誌力小於40%時，對",
 	"chr.ntfrisk.passive3": "其傷害類型完全轉為意誌力。當目",
 	"chr.ntfrisk.passive4": "標敵人血量小於六時，對其意誌力",
 	"chr.ntfrisk.passive5": "完全轉為傷害。",
