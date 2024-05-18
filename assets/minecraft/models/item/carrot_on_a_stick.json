@@ -194,7 +194,10 @@
 		{"predicate":{"custom_model_data":11007},"model":"item/redx"},
 
 		{"predicate":{"custom_model_data":12001},"model":"item/angela_book_01"},
-		{"predicate":{"custom_model_data":12002},"model":"item/angela_book_02"}
+		{"predicate":{"custom_model_data":12002},"model":"item/angela_book_02"},
+
+		{"predicate":{"custom_model_data":14001},"model":"item/broken_bone"},
+		{"predicate":{"custom_model_data":14002},"model":"item/chopper"}
 	],
 	"display": {
 		"ground": {

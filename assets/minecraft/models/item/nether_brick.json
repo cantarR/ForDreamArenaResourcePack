@@ -49,6 +49,7 @@
 	{"predicate":{"custom_model_data":10900},"model":"item/head/ahab"},
 	{"predicate":{"custom_model_data":11000},"model":"item/head/ntfrisk"},
 	{"predicate":{"custom_model_data":11001},"model":"item/head/ntfrisk_glasses"},
-	{"predicate":{"custom_model_data":11300},"model":"cua:item/head/god_zhaoyun"}
+	{"predicate":{"custom_model_data":11300},"model":"cua:item/head/god_zhaoyun"},
+	{"predicate":{"custom_model_data":11400},"model":"item/head/htsans"}
   ]
 }

@@ -1071,6 +1071,18 @@
         {
             "type": "single",
             "resource": "minecraft:move/angela_book_02"
-        } 
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:move/htbone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:move/chopper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:skin/htsans"
+        }
     ]
 }
