@@ -295,14 +295,10 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [90, -180, 0],
-			"translation": [0, -4, -6.75],
-			"scale": [0.97, 0.9, 0.97]
+			"scale": [0, 0, 0]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [90, 0, 0],
-			"translation": [0, 0, -6],
-			"scale": [0.97, 0.9, 0.97]
+			"scale": [0, 0, 0]
 		},
 		"firstperson_righthand": {
 			"rotation": [39, -11, 3],

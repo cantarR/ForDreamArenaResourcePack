@@ -1083,6 +1083,14 @@
         {
             "type": "single",
             "resource": "minecraft:skin/htsans"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:move/xlf_bullet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:move/xlf_revolver"
         }
     ]
 }

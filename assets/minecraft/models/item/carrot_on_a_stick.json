@@ -197,7 +197,17 @@
 		{"predicate":{"custom_model_data":12002},"model":"item/angela_book_02"},
 
 		{"predicate":{"custom_model_data":14001},"model":"item/broken_bone"},
-		{"predicate":{"custom_model_data":14002},"model":"item/chopper"}
+		{"predicate":{"custom_model_data":14002},"model":"item/chopper"},
+
+		{"predicate":{"custom_model_data":15001},"model":"item/xlf_revolver"},
+		{"predicate":{"custom_model_data":15002},"model":"item/bone_meal"},
+		{"predicate":{"custom_model_data":15003},"model":"item/popped_chorus_fruit"},
+		{"predicate":{"custom_model_data":15004},"model":"item/bone_meal"},
+		{"predicate":{"custom_model_data":15005},"model":"item/xlf_bullet"},
+		{"predicate":{"custom_model_data":15006},"model":"item/bone_meal"},
+		{"predicate":{"custom_model_data":15007},"model":"item/sugar"},
+		{"predicate":{"custom_model_data":15008},"model":"item/bone_meal"},
+		{"predicate":{"custom_model_data":15009},"model":"item/sugar"}
 	],
 	"display": {
 		"ground": {
