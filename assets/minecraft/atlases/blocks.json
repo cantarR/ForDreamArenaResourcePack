@@ -1091,6 +1091,10 @@
         {
             "type": "single",
             "resource": "minecraft:move/xlf_revolver"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:skin/xlf"
         }
     ]
 }
