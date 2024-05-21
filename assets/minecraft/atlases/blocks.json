@@ -1094,6 +1094,18 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:move/xlf_potion"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:move/xlf_gb"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:move/xlf_gbx"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:skin/xlf"
         }
     ]
