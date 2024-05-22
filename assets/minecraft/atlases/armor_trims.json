@@ -1,0 +1,15 @@
+{
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "cua:trims/models/armor/god_zhaoyun",
+                "cua:trims/models/armor/god_zhaoyun_leggings"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "dragon_soul": "cua:trims/color_palettes/dragon_soul"
+            }
+        }
+    ]
+}

@@ -1,13 +1,12 @@
 {
 	"wrn.too_much.hp": "你的生命值太多了！",
-
 	"prj.attack.common": "杀",
 	"prj.attack.fire": "火杀",
 	"prj.attack.thunder": "雷杀",
 
     "chr.God_ZhaoYun.mw": "青釭剑",
 	"chr.God_ZhaoYun.mw1": "锋利无比的宝剑，对敌人造成伤害时",
-	"chr.God_ZhaoYun.mw2": "无视其防御属性和格挡效果。",
+	"chr.God_ZhaoYun.mw2": "无视其减伤属性和格挡效果。",
 	"chr.God_ZhaoYun.mw3": "“云乃拔青釭剑乱砍，手起处，衣甲平过，血如泉涌。”",
 	"chr.God_ZhaoYun.ch": "龙魂[%d]",
 	"chr.God_ZhaoYun.ch1": "在四个选项中选择一项发动",
@@ -22,15 +21,14 @@
 	"chr.God_ZhaoYun.ch2_2": "桃",
 	"chr.God_ZhaoYun.ch2_3": "闪",
 	"chr.God_ZhaoYun.ch2_4": "火杀",
-	"chr.God_ZhaoYun.ch3_1": "免疫非近战攻击，持续3秒。",
-	"chr.God_ZhaoYun.ch3_2": "回复6生命值。",
-	"chr.God_ZhaoYun.ch3_3": "闪避下一次近战攻击，若主动发动则向前冲刺一段距离。",
-	"chr.God_ZhaoYun.ch3_4": "刷新近战攻击的冷却，并使下次近战攻击额外造成一次范围伤害。",
+	"chr.God_ZhaoYun.ch3_1": "获得短暂的绝对免疫效果，解除控制效果并清除附着物。",
+	"chr.God_ZhaoYun.ch3_2": "回复3点生命值，若技能未在冷却则死亡时自动使用。",
+	"chr.God_ZhaoYun.ch3_3": "获得3秒移动速度加成，闪避下一次敌方攻击。",
+	"chr.God_ZhaoYun.ch3_4": "刷新近战冷却，使下次近战攻击造成范围火焰伤害。",
 	"chr.God_ZhaoYun.dt": "斩将",
-	"chr.God_ZhaoYun.dt1": "持续消耗决心，使用次要技能",
-	"chr.God_ZhaoYun.dt2": "时返还等额已损生命值的冷却",
-	"chr.God_ZhaoYun.dt3": "时间，最多减少6秒。受到伤",
-	"chr.God_ZhaoYun.dt4": "害时返还等额的次要冷却。",
+	"chr.God_ZhaoYun.dt1": "持续消耗决心强化主要技能，",
+	"chr.God_ZhaoYun.dt2": "使用次要技能时会返还等额于",
+	"chr.God_ZhaoYun.dt3": "已损生命值的冷却，最多5秒。",
 	"chr.God_ZhaoYun": "神·赵云",
 	"chr.God_ZhaoYun.type": "神威如龙",
 	"chr.God_ZhaoYun.lore1": "字子龙，常山真定人。",
@@ -38,10 +36,8 @@
 	"chr.God_ZhaoYun.lore3": "长坂坡单骑救阿斗，",
 	"chr.God_ZhaoYun.lore4": "先主云：“子龙一身都是胆也。”",
 	"God_ZhaoYun.passive": "绝境",
-	"chr.God_ZhaoYun.passive1": "赵云在生命值归零时视为濒死状态，",
-	"chr.God_ZhaoYun.passive2": "若此时[龙魂]未在冷却则选择桃并",
-	"chr.God_ZhaoYun.passive3": "使用之。进入或脱离濒死时均会随机",
-	"chr.God_ZhaoYun.passive4": "选择[龙魂]的一个技能发动。",
+	"chr.God_ZhaoYun.passive1": "赵云在进入和脱离濒死状态时会随机",
+	"chr.God_ZhaoYun.passive2": "选择[龙魂]的一个技能效果并发动。",
 
 	"chr.AL-1S.mw":"光之剑·超新星",
 	"chr.AL-1S.mw1":"爱丽丝从工程部那里拿到的",
@@ -64,6 +60,10 @@
 	"chr.AL-1S.passive3":"使用决心技能时将会消耗所有",
 	"chr.AL-1S.passive4":"[能量填充]，在造成伤害时每",
 	"chr.AL-1S.passive5":"层会额外造成5%伤害。",
+
+	"trim_pattern.cua.God_ZhaoYun":"神·赵云 盔甲纹饰",
+
+	"trim_material.cua.God_ZhaoYun":"龙魂",
 
 	"cua.blank":""
 }
