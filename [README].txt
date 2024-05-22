@@ -123,7 +123,7 @@ v0.1.6
 增加effect_cua.png
 修改lang文件
 
-v0.1.6b~d
+v0.1.6b~c
 修改dell技能描述
 修改effect_fda.png
 修改lang文件
@@ -134,6 +134,24 @@ v0.1.6b~d
 修改Nt!frisk技能描述
 修改effect_fda.png
 
+v0.1.7
+修改effect_fda.png
+修改dell技能描述
+修改lang文件
+修改亚哈技能模型
+增加horror！sans模型
+
+v0.1.7b~d
+增加horror！sans描述
+增加xlf技能描述
+增加xlf模型
+修改effect_fda.png
+修改lang文件
+修改xlf模型
+修改xlf技能描述
+更新纸鸢技能模型
+更新纸鸢技能描述
+修改effect_fda.png
 
 2024/4/6 18:52:16
 So we begin.
