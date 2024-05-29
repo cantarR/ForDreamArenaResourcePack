@@ -1200,6 +1200,8 @@
     "chr.end_dec.dt3": "召喚一把鐮刀，命中敵人後恢復少量HP。",
     "chr.end_dec.dt4": "命中增加一次使用次數，至多使用三次。",
     "chr.end_dec.dt5": "一段時間內未命中，則收起鐮刀。",
+	"chr.end_dec.spx": "星相庇佑",
+    "chr.end_dec.spx1": "為自己與同行之人提供加速與減傷",
     "chr.end_dec.mpn": "深淵的記憶",
     "chr.end_dec.cdn": "崩壞星軌",
     "chr.end_dec.dtn": "虛相鐮刀",

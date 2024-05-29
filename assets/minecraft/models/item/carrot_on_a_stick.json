@@ -162,6 +162,7 @@
 		{"predicate":{"custom_model_data":10404},"model":"item/paper_plane"},
 
 		{"predicate":{"custom_model_data":10506},"model":"item/shadow_blade"},
+		{"predicate":{"custom_model_data":10509},"model":"item/shadow_foxgod"},
 		{"predicate":{"custom_model_data":10510},"model":"item/fox_scabbard"},
 
 		{"predicate":{"custom_model_data":10601},"model":"item/shotgun"},

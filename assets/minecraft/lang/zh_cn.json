@@ -1200,6 +1200,8 @@
     "chr.end_dec.dt3": "召唤一把镰刀，命中敌人后恢复少量HP。",
     "chr.end_dec.dt4": "命中增加一次使用次数，至多使用三次。",
     "chr.end_dec.dt5": "一段时间内未命中，则收起镰刀。",
+	"chr.end_dec.spx": "星相庇佑",
+    "chr.end_dec.spx1": "为自己与同行之人提供加速与减伤",
     "chr.end_dec.mpn": "深渊的记忆",
     "chr.end_dec.cdn": "崩坏星轨",
     "chr.end_dec.dtn": "虚相镰刀",
