@@ -982,6 +982,10 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:move/shadow_foxgod"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:move/harpoon_01"
         },
         {
