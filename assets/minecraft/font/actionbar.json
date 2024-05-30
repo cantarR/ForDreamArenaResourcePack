@@ -51,7 +51,7 @@
         },
         {
             "type": "bitmap",
-            "file": "hud:effects_mypacks.png",
+            "file": "hud:effects_mypack.png",
             "ascent": -43,
             "height": 21,
             "chars": [
