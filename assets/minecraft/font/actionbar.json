@@ -37,6 +37,20 @@
 		}, 
         {
             "type": "bitmap",
+            "file": "hud:effects_aua.png",
+            "ascent": -43,
+            "height": 21,
+            "chars": [
+                "\uFA00\uFA01\uFA02\uFA03\uFA04\uFA05\uFA06\uFA07",
+                "\uFA08\uFA09\uFA0A\uFA0B\uFA0C\uFA0D\uFA0E\uFA0F",
+                "\uFA10\uFA11\uFA12\uFA13\uFA14\uFA15\uFA16\uFA17",
+                "\uFA18\uFA19\uFA1A\uFA1B\uFA1C\uFA1D\uFA1E\uFA1F",
+                "\uFA20\uFA21\uFA22\uFA23\uFA24\uFA25\uFA26\uFA27",
+                "\uFA28\uFA29\uFA2A\uFA2B\uFA2C\uFA2D\uFA2E\uFA2F"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "hud:effects_cua.png",
             "ascent": -43,
             "height": 21,
