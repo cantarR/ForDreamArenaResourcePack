@@ -34,21 +34,7 @@
 				"\uF441\uF442\uF443\uF444\uF445\uF446\uF447\uF448",
 				"\uF451\uF452\uF453\uF454\uF455\uF456\uF457\uF458"
 			]
-		}, 
-        {
-            "type": "bitmap",
-            "file": "hud:effects_aua.png",
-            "ascent": -43,
-            "height": 21,
-            "chars": [
-                "\uFA00\uFA01\uFA02\uFA03\uFA04\uFA05\uFA06\uFA07",
-                "\uFA08\uFA09\uFA0A\uFA0B\uFA0C\uFA0D\uFA0E\uFA0F",
-                "\uFA10\uFA11\uFA12\uFA13\uFA14\uFA15\uFA16\uFA17",
-                "\uFA18\uFA19\uFA1A\uFA1B\uFA1C\uFA1D\uFA1E\uFA1F",
-                "\uFA20\uFA21\uFA22\uFA23\uFA24\uFA25\uFA26\uFA27",
-                "\uFA28\uFA29\uFA2A\uFA2B\uFA2C\uFA2D\uFA2E\uFA2F"
-            ]
-        },
+		},
         {
             "type": "bitmap",
             "file": "hud:effects_cua.png",
@@ -69,15 +55,14 @@
             "ascent": -43,
             "height": 21,
             "chars": [
-                "\uFB00\uFB01\uFB02\uFB03\uFB04\uFB05\uFB06\uFB07",
-                "\uFB10\uFB11\uFB12\uFB13\uFB14\uFB15\uFB16\uFB17",
-                "\uFB20\uFB21\uFB22\uFB23\uFB24\uFB25\uFB26\uFB27",
-                "\uFB30\uFB31\uFB32\uFB33\uFB34\uFB35\uFB36\uFB37",
-                "\uFB40\uFB41\uFB42\uFB43\uFB44\uFB45\uFB46\uFB47",
-                "\uFB50\uFB51\uFB52\uFB53\uFB54\uFB55\uFB56\uFB57"
+                "\uFF00\uFF01\uFF02\uFF03\uFF04\uFF05\uFF06\uFF07",
+                "\uFF10\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17",
+                "\uFF20\uFF21\uFF22\uFF23\uFF24\uFF25\uFF26\uFF27",
+                "\uFF30\uFF31\uFF32\uFF33\uFF34\uFF35\uFF36\uFF37",
+                "\uFF40\uFF41\uFF42\uFF43\uFF44\uFF45\uFF46\uFF47",
+                "\uFF50\uFF51\uFF52\uFF53\uFF54\uFF55\uFF56\uFF57"
             ]
         },
-
         {
 			"type": "bitmap",
 			"file": "minecraft:font/dogs.png",
