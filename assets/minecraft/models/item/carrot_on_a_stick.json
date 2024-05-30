@@ -208,7 +208,30 @@
 		{"predicate":{"custom_model_data":15006},"model":"item/xlf_gb"},
 		{"predicate":{"custom_model_data":15007},"model":"item/xlf_gb_1"},
 		{"predicate":{"custom_model_data":15008},"model":"item/xlf_gbx"},
-		{"predicate":{"custom_model_data":15009},"model":"item/xlf_gbx_1"}
+		{"predicate":{"custom_model_data":15009},"model":"item/xlf_gbx_1"},
+
+
+
+		{"predicate":{"custom_model_data":17001},"model":"aua:move/bone_precise"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		{"predicate":{"custom_model_data":99999},"model":"add_models_uphere"}
+
+
 	],
 	"display": {
 		"ground": {
