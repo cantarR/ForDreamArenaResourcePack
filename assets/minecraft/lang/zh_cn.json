@@ -1375,7 +1375,7 @@
 	"angela.passive":"情绪激发",
 	"chr.angela.passive1": "自身在场时我方全部角色最大意志力",
 	"chr.angela.passive2": "及意志力变动值翻倍。当意志力变动",
-	"chr.angela.passive3": "值累计至20%/50%/80%时各获取一张",
+	"chr.angela.passive3": "值累计至40%/100%/160%时各获取一张",
 	"chr.angela.passive4": "随机异想体书页，至多获得3张。",
 	"chr.angela.mw": "萎缩的血翼",
 	"chr.angela.mw1": "撒出三张书页并在落点分别生成一根",

@@ -1375,7 +1375,7 @@
 	"angela.passive":"情緒激發",
 	"chr.angela.passive1": "自身在場時我方全部角色最大意誌力",
 	"chr.angela.passive2": "及意誌力變動值翻倍。當意誌力變動",
-	"chr.angela.passive3": "值累計至20%/50%/80%時各獲取一張",
+	"chr.angela.passive3": "值累計至40%/100%/160%時各獲取一張",
 	"chr.angela.passive4": "隨機異想體書頁，至多獲得3張。",
 	"chr.angela.mw": "萎縮的血翼",
 	"chr.angela.mw1": "撒出三張書頁並在落點分別生成一根",
