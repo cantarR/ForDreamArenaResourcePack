@@ -1111,6 +1111,37 @@
         {
             "type": "single",
             "resource": "minecraft:skin/xlf"
+        },
+        {
+            "type": "single",
+            "resource": "aua:move/bone_precise"
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "type": "single",
+            "resource": "minecraft:add_textures_uphere"
         }
     ]
 }
