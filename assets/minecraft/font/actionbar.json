@@ -49,7 +49,20 @@
                 "\uFC28\uFC29\uFC2A\uFC2B\uFC2C\uFC2D\uFC2E\uFC2F"
             ]
         },
-
+        {
+            "type": "bitmap",
+            "file": "hud:effects_mypacks.png",
+            "ascent": -43,
+            "height": 21,
+            "chars": [
+                "\uFB00\uFB01\uFB02\uFB03\uFB04\uFB05\uFB06\uFB07",
+                "\uFB10\uFB11\uFB12\uFB13\uFB14\uFB15\uFB16\uFB17",
+                "\uFB20\uFB21\uFB22\uFB23\uFB24\uFB25\uFB26\uFB27",
+                "\uFB30\uFB31\uFB32\uFB33\uFB34\uFB35\uFB36\uFB37",
+                "\uFB40\uFB41\uFB42\uFB43\uFB44\uFB45\uFB46\uFB47",
+                "\uFB50\uFB51\uFB52\uFB53\uFB54\uFB55\uFB56\uFB57"
+            ]
+        },
 
         {
 			"type": "bitmap",
