@@ -73,5 +73,30 @@
 	"chr.angela.ap10_2": "定期轉換。",
 
 	"wrn.angela.levelup": "情感等級提升!",
-	"wrn.angela.levelup2": "已獲取一張隨機異想體書頁"
+	"wrn.angela.levelup2": "已獲取一張隨機異想體書頁",
+
+	"chr.htsans": "Horror！Sans",
+    "chr.htsans.type": "HORRORTALE",
+    "chr.htsans.lore1": "一只喜歡雙關、幽默…以及精神上",
+    "chr.htsans.lore2": "折磨的骷髏。擅長使用細小的骨刺",
+    "chr.htsans.lore3": "擊潰敵人，也可以召喚骨墻來隔絕",
+    "chr.htsans.lore4": "一切。盡管生活如此疾苦，但他仍",
+    "chr.htsans.lore5": "舊堅守著自己的道德底線。",
+    "htsans.passive": "渴望",
+	"chr.htsans.passive1": "Sans每累計造成二點傷害會消耗",
+    "chr.htsans.passive2": "意誌力並獲得1級饑餓，當饑餓的",
+    "chr.htsans.passive3": "等級到達10，進入§c極度饑餓§r狀態。",
+	"chr.htsans.mp": "殘破之骨",
+	"chr.htsans.mp1": "向前發射一根脆弱的骨頭，飛行一段距離",
+    "chr.htsans.mp2": "後破裂並飛出骨刺碎片，碎片將對目標持",
+	"chr.htsans.mp3": "續造成極低傷害。",
+    "chr.htsans.ch": "進食時間！",
+    "chr.htsans.ch1": "向前瞬移並飛出一把菜刀，命中後降低",
+	"chr.htsans.ch2": "自身意誌力並獲得3級饑餓。",
+    "chr.htsans.dt": "無邊恐懼",
+	"chr.htsans.dt1": "生成一排巨大骨頭，抵擋任何事物。身處",
+    "chr.htsans.dt2": "骨墻周圍時§c極度饑餓§r狀態將不再解除。",
+	"chr.htsans.mpn": "殘破之骨",
+	"chr.htsans.mpxn": "骨刺碎片",
+	"chr.htsans.chn": "菜刀"
 }

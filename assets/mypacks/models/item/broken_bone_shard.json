@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "move/htbone",
-		"particle": "move/htbone"
+		"0": "mypacks:move/htbone",
+		"particle": "mypacks:move/htbone"
 	},
 	"elements": [
 		{

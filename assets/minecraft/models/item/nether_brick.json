@@ -50,8 +50,9 @@
 	{"predicate":{"custom_model_data":11000},"model":"item/head/ntfrisk"},
 	{"predicate":{"custom_model_data":11001},"model":"item/head/ntfrisk_glasses"},
 	{"predicate":{"custom_model_data":13000},"model":"cua:item/head/god_zhaoyun"},
-	{"predicate":{"custom_model_data":14000},"model":"item/head/htsans"},
-	{"predicate":{"custom_model_data":14001},"model":"item/head/htsans_hungry"},
-	{"predicate":{"custom_model_data":15000},"model":"item/head/xlf"}
+	{"predicate":{"custom_model_data":14000},"model":"mypacks:item/head/htsans"},
+	{"predicate":{"custom_model_data":14001},"model":"mypacks:item/head/htsans_hungry"},
+	{"predicate":{"custom_model_data":15000},"model":"item/head/xlf"},
+	{"predicate":{"custom_model_data":17000},"model":"aua:item/head/murder"}
   ]
 }
