@@ -1,0 +1,61 @@
+{
+
+
+    "chr.MurderSans.mp": "精準骨頭",
+	"chr.MurderSans.mp1": "向前方發射一根傷害更高速度",
+	"chr.MurderSans.mp2": "更快的骨頭。",
+	"chr.MurderSans.1ch": "快速閃避",
+	"chr.MurderSans.1ch1": "向前方瞬移一段距離，若落點周圍有",
+	"chr.MurderSans.1ch2": "敵人則進入戰鬥狀態，持續8秒。期間",
+	"chr.MurderSans.1ch3": "略微提高魔法恢複速度，並將次要技能",
+	"chr.MurderSans.1ch4": "修改為[刀]",
+	"chr.MurderSans.2ch": "刀",
+	"chr.MurderSans.2ch1": "用於屠殺的武器，使用後會提前結束",
+	"chr.MurderSans.2ch2": "戰鬥狀態，若成功殺死敵人則會返還",
+	"chr.MurderSans.2ch3": "90%次要技能冷卻。",
+	"chr.MurderSans.dt": "Gaster Blaster",
+	"chr.MurderSans.dt1": "召喚一個龍骨，再次使用技能",
+	"chr.MurderSans.dt2": "可以發射出一道傷害更高的能",
+	"chr.MurderSans.dt3": "量炮，需要更長的準備時間。",
+	"chr.MurderSans.dt4": "若處於戰鬥狀態將大幅縮短準",
+	"chr.MurderSans.dt5": "備時間，但傷害會略微下降。",
+	"chr.MurderSans": "Murder Sans",
+	"chr.MurderSans.type": "瘋狂的戰術家",
+	"chr.MurderSans.lore1": "在經曆了80多次屠殺線，嚐試了各種",
+	"chr.MurderSans.lore2": "方法無果後，走投無路的Sans最終",
+	"chr.MurderSans.lore3": "決定效仿人類的做法，依靠LOVE獲得",
+	"chr.MurderSans.lore4": "更強的力量。",
+	"MurderSans.passive": "熟練屠殺",
+	"chr.MurderSans.passive1": "Sans在擊殺敵人後會額外獲得",
+	"chr.MurderSans.passive2": "LOVE獎勵，最多可獲得19次。",
+	"chr.MurderSans.passive3": "子彈速度將會根據LOVE等級",
+	"chr.MurderSans.passive4": "提升。遊戲開始時獲得Papyrus",
+	"chr.MurderSans.passive5": "的幻影。擊殺Undertale的怪物",
+	"chr.MurderSans.passive6": "時，將幻影修改為對應的怪物。",
+	"chr.MurderSans.sp": "%d的幻影",
+	"chr.MurderSans.sp_Papyrus": "Papyrus",
+	"chr.MurderSans.sp_Undyne": "Undyne",
+	"chr.MurderSans.sp_Flowey": "Flowey",
+	"chr.MurderSans.sp_Mettaton": "Mettaton",
+	"chr.MurderSans.sp_Muffet": "Muffet",
+	"chr.MurderSans.sp_Toriel": "Toriel",
+	"chr.MurderSans.sp_Asgore": "Asgore",
+	"chr.MurderSans.sp_Asriel": "Asriel",
+	"chr.MurderSans.sp_Alphys": "Alphys",
+	"chr.MurderSans.sp_Napstablook": "Napstablook",
+	"chr.MurderSans.sp_Mad Dummy": "Mad Dummy",
+	"chr.MurderSans.sp1": "Sans想象出被自己所殺死的怪物",
+	"chr.MurderSans.sp2": "的幻影，並使用骨頭模仿他們的",
+	"chr.MurderSans.sp3": "攻擊，持續5秒。",
+
+
+
+
+
+
+	
+	"chr.MurderSans.trim_pattern":"Murder Sans 盔甲紋飾",
+	"chr.MurderSans.trim_material":"塵埃",
+
+	"aua.blank":""
+}

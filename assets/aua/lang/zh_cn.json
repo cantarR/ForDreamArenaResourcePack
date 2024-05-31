@@ -44,34 +44,29 @@
 	"chr.MurderSans.sp_Alphys": "Alphys",
 	"chr.MurderSans.sp_Napstablook": "Napstablook",
 	"chr.MurderSans.sp_Mad Dummy": "Mad Dummy",
-	"chr.MurderSans.sp1": "向前方发射一根伤害更高速度",
-	"chr.MurderSans.sp2": "更快的骨头。",
+	"chr.MurderSans.sp1": "Sans想象出被自己所杀死的怪物",
+	"chr.MurderSans.sp2": "的幻影，并使用骨头模仿他们的",
+	"chr.MurderSans.sp3": "攻击，持续5秒。",
+	"chr.MurderSans.mp_Papyrus": "精准连击",
+	"chr.MurderSans.mp1_Papyrus": "连续发射三根精准骨头，对命中的玩",
+	"chr.MurderSans.mp2_Papyrus": "家造成伤害。",
+	"chr.MurderSans.mp_Undyne": "骨矛投掷",
+	"chr.MurderSans.mp1_Undyne": "向前方投掷出一根骨矛贯穿目标。每",
+	"chr.MurderSans.mp2_Undyne": "根骨矛都会轻微限制敌人的行动。",
+	"chr.MurderSans.mp_Flowey": "骨头颗粒",
+	"chr.MurderSans.mp1_Flowey": "召唤骨头颗粒，再次使用这个技能可",
+	"chr.MurderSans.mp2_Flowey": "以将召唤的骨头发射到瞄准的方向。",
 
-	"chr.AL-1S.mw":"光之剑·超新星",
-	"chr.AL-1S.mw1":"爱丽丝从工程部那里拿到的",
-	"chr.AL-1S.mw2":"巨大电磁炮。可以发射高速",
-	"chr.AL-1S.mw3":"子弹，穿透多个敌人。",
-	"chr.AL-1S.ch":"光啊！",
-	"chr.AL-1S.ch1":"获得持续五秒钟的三倍魔法恢复",
-	"chr.AL-1S.ch2":"速度，期间每秒获得1点决心值",
-	"chr.AL-1S.dt":"平衡崩坏！",
-	"chr.AL-1S.dt1":"原地蓄力后向前方以发射光速飞行的",
-	"chr.AL-1S.dt2":"巨大子弹，可以穿透墙体攻击敌人。",
-	"chr.AL-1S":"天童 爱丽丝",
-	"chr.AL-1S.type":"千禧年科技学院 一年级生",
-	"chr.AL-1S.lore1":"千禧年游戏开发部的成员。在废",
-	"chr.AL-1S.lore2":"墟发现的来历不明的少女，无法",
-	"chr.AL-1S.lore3":"查到包括年龄在内的所有情报。",
-	"AL-1S.passive":"觉醒吧，超新星！",
-	"chr.AL-1S.passive1":"爱丽丝会将溢出决心值储存为",
-	"chr.AL-1S.passive2":"[能量填充]，最多叠加20层。",
-	"chr.AL-1S.passive3":"使用决心技能时将会消耗所有",
-	"chr.AL-1S.passive4":"[能量填充]，在造成伤害时每",
-	"chr.AL-1S.passive5":"层会额外造成5%伤害。",
 
-	"trim_pattern.cua.MurderSans":"神·赵云 盔甲纹饰",
 
-	"trim_material.cua.MurderSans":"龙魂",
 
-	"cua.blank":""
+
+
+
+
+
+	"chr.MurderSans.trim_pattern":"Murder Sans 盔甲纹饰",
+	"chr.MurderSans.trim_material":"尘埃",
+
+	"aua.blank":""
 }
