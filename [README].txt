@@ -162,6 +162,20 @@ v0.1.8b
 更新终猫技能描述
 更新影夜技能模型
 
+v0.2.0
+更新影夜技能描述
+更新horror技能模型
+更新horror技能描述
+修复爱丽丝模型缺失
+添加murder技能模型
+添加murder技能描述
+包体技术性更新
+更新安吉拉技能模型
+更新安吉拉技能描述
+新开aua文件夹
+添加effects_aua.png
+添加effects_mypacks.png
+
 2024/4/6 18:52:16
 So we begin.
 
