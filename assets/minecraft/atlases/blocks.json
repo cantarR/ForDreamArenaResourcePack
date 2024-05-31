@@ -1070,11 +1070,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:move/angela_book_01"
+            "resource": "mypacks:move/angela_book_01"
         },
         {
             "type": "single",
-            "resource": "minecraft:move/angela_book_02"
+            "resource": "mypacks:move/angela_book_02"
         },
         {
             "type": "single",
@@ -1086,7 +1086,15 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:move/hotdog"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:skin/htsans"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:skin/htsans_hungry"
         },
         {
             "type": "single",
@@ -1116,29 +1124,6 @@
             "type": "single",
             "resource": "aua:move/bone_precise"
         },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         {
             "type": "single",
             "resource": "minecraft:add_textures_uphere"

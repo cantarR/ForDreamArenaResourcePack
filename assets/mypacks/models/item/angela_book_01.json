@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "move/angela_book_01",
-		"particle": "move/angela_book_01"
+		"0": "mypacks:move/angela_book_01",
+		"particle": "mypacks:move/angela_book_01"
 	},
 	"elements": [
 		{
@@ -76,6 +76,9 @@
 			"rotation": [-76, 180, -90],
 			"translation": [-6.75, 0.25, 0],
 			"scale": [0.64, 1.02, 0.57]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0]
 		},
 		"gui": {
 			"rotation": [88, -26, 34],

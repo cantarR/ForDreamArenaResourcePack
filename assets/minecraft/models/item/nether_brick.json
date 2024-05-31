@@ -51,6 +51,7 @@
 	{"predicate":{"custom_model_data":11001},"model":"item/head/ntfrisk_glasses"},
 	{"predicate":{"custom_model_data":13000},"model":"cua:item/head/god_zhaoyun"},
 	{"predicate":{"custom_model_data":14000},"model":"item/head/htsans"},
+	{"predicate":{"custom_model_data":14001},"model":"item/head/htsans_hungry"},
 	{"predicate":{"custom_model_data":15000},"model":"item/head/xlf"}
   ]
 }

@@ -1,6 +1,4 @@
 {
-
-
     "chr.MurderSans.mp": "精準骨頭",
 	"chr.MurderSans.mp1": "向前方發射一根傷害更高速度",
 	"chr.MurderSans.mp2": "更快的骨頭。",
@@ -46,16 +44,5 @@
 	"chr.MurderSans.sp_Mad Dummy": "Mad Dummy",
 	"chr.MurderSans.sp1": "Sans想象出被自己所殺死的怪物",
 	"chr.MurderSans.sp2": "的幻影，並使用骨頭模仿他們的",
-	"chr.MurderSans.sp3": "攻擊，持續5秒。",
-
-
-
-
-
-
-	
-	"chr.MurderSans.trim_pattern":"Murder Sans 盔甲紋飾",
-	"chr.MurderSans.trim_material":"塵埃",
-
-	"aua.blank":""
+	"chr.MurderSans.sp3": "攻擊，持續5秒。"
 }
