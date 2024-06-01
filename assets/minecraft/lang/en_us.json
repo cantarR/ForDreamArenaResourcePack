@@ -859,6 +859,7 @@
 	"dsc.mxmp": "%d Maximum Mana",
 	"dsc.mwmove": "Primary Weapon",
 	"dsc.mpmove": "Primary Ability",
+	"dsc.mwcost": "%d Attack Cooldown",
 	"dsc.mpcost": "%d Mana Usage",
 	"dsc.chmove": "Secondary Ability",
 	"dsc.cdmove": "Secondary Ability",

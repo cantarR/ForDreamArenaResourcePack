@@ -877,6 +877,7 @@
 	"dsc.mxmp": "%d 魔法上限",
 	"dsc.mwmove": "主要武器",
 	"dsc.mpmove": "主要技能",
+	"dsc.mwcost": "%d 攻擊冷卻",
 	"dsc.mpcost": "%d 魔法消耗",
 	"dsc.chmove": "次要技能",
 	"dsc.cdmove": "次要技能",
