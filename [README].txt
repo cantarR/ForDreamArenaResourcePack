@@ -176,6 +176,10 @@ v0.2.0
 添加effects_aua.png
 添加effects_mypacks.png
 
+v0.2.0b
+更新主标题随机文本
+更新主标题背景
+
 2024/4/6 18:52:16
 So we begin.
 
