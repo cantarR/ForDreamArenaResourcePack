@@ -53,5 +53,37 @@
 	"chr.MurderSans.mp2_Undyne": "根骨矛都会轻微限制敌人的行动。",
 	"chr.MurderSans.mp_Flowey": "骨头颗粒",
 	"chr.MurderSans.mp1_Flowey": "召唤骨头颗粒，再次使用这个技能可",
-	"chr.MurderSans.mp2_Flowey": "以将召唤的骨头发射到瞄准的方向。"
+	"chr.MurderSans.mp2_Flowey": "以将召唤的骨头发射到瞄准的方向。",
+	"chr.MurderSans.mp_Mettaton": "爆炸骨头",
+	"chr.MurderSans.mp1_Mettaton": "连续向前发射一根精准骨头。骨头在",
+	"chr.MurderSans.mp2_Mettaton": "命中时造成范围伤害以及击退。",
+	"chr.MurderSans.mp_Muffet": "骨头蜘蛛",
+	"chr.MurderSans.mp1_Muffet": "丢出三根精准骨头，它们会在命中敌",
+	"chr.MurderSans.mp2_Muffet": "人后留下碎片。被碎片刺伤的敌人会",
+	"chr.MurderSans.mp3_Muffet": "持续受到伤害。",
+	"chr.MurderSans.mp_Toriel": "骨头魔法",
+	"chr.MurderSans.mp1_Toriel": "用双手施放精准骨头，命中的敌人会",
+	"chr.MurderSans.mp2_Toriel": "受到伤害。",
+	"chr.MurderSans.mp_Asgore": "骨头手掌",
+	"chr.MurderSans.mp1_Asgore": "发射一根精准骨头，它会往前飞并沿",
+	"chr.MurderSans.mp2_Asgore": "途向两旁施放小骨头。",
+	"chr.MurderSans.mp_Asriel": "骨头冲击",
+	"chr.MurderSans.mp1_Asriel": "连续发射4根小骨头并为这个武器充",
+	"chr.MurderSans.mp2_Asriel": "能。当武器完全充能时，下一个攻击",
+	"chr.MurderSans.mp3_Asriel": "会变成一道强力的能量炮。",
+	"chr.MurderSans.mp_Alphys": "电击骨头",
+	"chr.MurderSans.mp1_Alphys": "发射电击骨头，在命中敌人时为其叠",
+	"chr.MurderSans.mp2_Alphys": "加0.5秒麻痹效果。",
+	"chr.MurderSans.mp_Napstablook": "骨如泉涌",
+	"chr.MurderSans.mp1_Napstablook": "发射两根精准骨头来攻击你的敌人。",
+	"chr.MurderSans.mp2_Napstablook": "骨头的飞行轨迹非常的诡异。",
+	"chr.MurderSans.mp_Mad Dummy": "骨头伙伴",
+	"chr.MurderSans.mp1_Mad Dummy": "向前发射小骨头，数量和魔法消耗会",
+	"chr.MurderSans.mp2_Mad Dummy": "随发射次数逐渐增多，最多发射六根",
+	"chr.MurderSans.mp3_Mad Dummy": "骨头。",
+
+
+
+
+	"aua.blank":""
 }
