@@ -1,4 +1,12 @@
 {
+	"hlp.dt_murder_main": "你还在等什么？",
+	"hlp.dt_murder_sub": "赶快杀了他们！",
+
+
+
+	"chr.MurderSans.dtn": "Gaster Blaster",
+
+
     "chr.MurderSans.mp": "精准骨头",
 	"chr.MurderSans.mp1": "向前方发射一根伤害更高速度",
 	"chr.MurderSans.mp2": "更快的骨头。",

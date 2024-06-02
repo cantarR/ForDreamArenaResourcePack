@@ -2,7 +2,7 @@
 	"parent": "item/head/basic",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "aua:skin/murder",
+		"0": "aua:skin/murder_sans",
 		"particle": "block/soul_sand"
 	}
 }

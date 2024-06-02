@@ -220,6 +220,8 @@
 		{"predicate":{"custom_model_data":17001},"model":"aua:item/move/bone_precise"},
 		{"predicate":{"custom_model_data":17002},"model":"aua:item/move/flash_dodge"},
 		{"predicate":{"custom_model_data":17003},"model":"aua:item/move/gb_murder"},
+		{"predicate":{"custom_model_data":17004},"model":"aua:item/move/knife_murder"},
+		{"predicate":{"custom_model_data":17005},"model":"aua:item/move/gb_murder_open"},
 
 		{"predicate":{"custom_model_data":99999},"model":"add_models_uphere"}
 	],
