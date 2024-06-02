@@ -24,7 +24,7 @@
 	"chr.God_ZhaoYun.ch3_1": "获得短暂的绝对免疫效果，解除控制效果并清除附着物。",
 	"chr.God_ZhaoYun.ch3_2": "回复3点生命值，若技能未在冷却则死亡时自动使用。",
 	"chr.God_ZhaoYun.ch3_3": "获得3秒移动速度加成，闪避下一次敌方攻击。",
-	"chr.God_ZhaoYun.ch3_4": "刷新近战冷却，使下次近战攻击造成范围火焰伤害。",
+	"chr.God_ZhaoYun.ch3_4": "使下次近战攻击造成范围火焰伤害，可叠加两次。",
 	"chr.God_ZhaoYun.dt": "斩将",
 	"chr.God_ZhaoYun.dt1": "持续消耗决心强化主要技能，",
 	"chr.God_ZhaoYun.dt2": "使用次要技能时会返还等额于",
