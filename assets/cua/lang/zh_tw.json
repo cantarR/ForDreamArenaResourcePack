@@ -24,7 +24,7 @@
 	"chr.God_ZhaoYun.ch3_1": "獲得短暫的絕對免疫效果，解除控製效果並清除附著物。",
 	"chr.God_ZhaoYun.ch3_2": "回復3點生命值，若技能未在冷卻則死亡時自動使用。",
 	"chr.God_ZhaoYun.ch3_3": "獲得3秒移動速度加成，閃避下一次敵方攻擊。",
-	"chr.God_ZhaoYun.ch3_4": "刷新近戰冷卻，使下次近戰攻擊造成範圍火焰傷害。",
+	"chr.God_ZhaoYun.ch3_4": "使下次近戰攻擊造成範圍火焰傷害，可疊加兩次。",
 	"chr.God_ZhaoYun.dt": "斬將",
 	"chr.God_ZhaoYun.dt1": "持續消耗決心強化主要技能，",
 	"chr.God_ZhaoYun.dt2": "使用次要技能時會返還等額於",
