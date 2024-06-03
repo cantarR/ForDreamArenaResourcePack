@@ -132,6 +132,22 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:font/pretty_stats_special.png",
+            "ascent": 24,
+            "height": 24,
+            "chars": [
+                "\uE23A\uE23B\uE23C\uE23D\uE23E\uE23F\uE24A\uE24B\uE24C\uE24D\uE24E\uE24F",
+                "\uE33A\uE33B\uE33C\uE33D\uE33E\uE33F\uE34A\uE34B\uE34C\uE34D\uE34E\uE34F",
+                "\uE43A\uE43B\uE43C\uE43D\uE43E\uE43F\uE44A\uE44B\uE44C\uE44D\uE44E\uE44F",
+                "\uE53A\uE53B\uE53C\uE53D\uE53E\uE53F\uE54A\uE54B\uE54C\uE54D\uE54E\uE54F",
+                "\uE63A\uE63B\uE63C\uE63D\uE63E\uE63F\uE64A\uE64B\uE64C\uE64D\uE64E\uE64F",
+                "\uE73A\uE73B\uE73C\uE73D\uE73E\uE73F\uE74A\uE74B\uE74C\uE74D\uE74E\uE74F",
+                "\uE83A\uE83B\uE83C\uE83D\uE83E\uE83F\uE84A\uE84B\uE84C\uE84D\uE84E\uE84F",
+                "\uE93A\uE93B\uE93C\uE93D\uE93E\uE93F\uE94A\uE94B\uE94C\uE94D\uE94E\uE94F"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/action_mp.png",
             "ascent": 11,
             "height": 15,
