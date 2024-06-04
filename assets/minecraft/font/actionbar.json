@@ -118,32 +118,24 @@
             "type": "bitmap",
             "file": "minecraft:font/pretty_stats.png",
             "ascent": 24,
-            "height": 24,
+            "height": 30,
             "chars": [
                 "\uE20A\uE20B\uE20C\uE20D\uE20E\uE20F\uE22A\uE22B\uE22C\uE22D\uE22E\uE22F",
                 "\uE30A\uE30B\uE30C\uE30D\uE30E\uE30F\uE32A\uE32B\uE32C\uE32D\uE32E\uE32F",
                 "\uE40A\uE40B\uE40C\uE40D\uE40E\uE40F\uE42A\uE42B\uE42C\uE42D\uE42E\uE42F",
-                "\uE50A\uE50B\uE50C\uE50D\uE50E\uE50F\uE52A\uE52B\uE52C\uE52D\uE52E\uE52F",
-                "\uE60A\uE60B\uE60C\uE60D\uE60E\uE60F\uE62A\uE62B\uE62C\uE62D\uE62E\uE62F",
-                "\uE70A\uE70B\uE70C\uE70D\uE70E\uE70F\uE72A\uE72B\uE72C\uE72D\uE72E\uE72F",
-                "\uE80A\uE80B\uE80C\uE80D\uE80E\uE80F\uE82A\uE82B\uE82C\uE82D\uE82E\uE82F",
-                "\uE90A\uE90B\uE90C\uE90D\uE90E\uE90F\uE92A\uE92B\uE92C\uE92D\uE92E\uE92F"
+                "\uE50A\uE50B\uE50C\uE50D\uE50E\uE50F\uE52A\uE52B\uE52C\uE52D\uE52E\uE52F"
             ]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/pretty_stats_special.png",
             "ascent": 24,
-            "height": 24,
+            "height": 30,
             "chars": [
                 "\uE23A\uE23B\uE23C\uE23D\uE23E\uE23F\uE24A\uE24B\uE24C\uE24D\uE24E\uE24F",
                 "\uE33A\uE33B\uE33C\uE33D\uE33E\uE33F\uE34A\uE34B\uE34C\uE34D\uE34E\uE34F",
                 "\uE43A\uE43B\uE43C\uE43D\uE43E\uE43F\uE44A\uE44B\uE44C\uE44D\uE44E\uE44F",
-                "\uE53A\uE53B\uE53C\uE53D\uE53E\uE53F\uE54A\uE54B\uE54C\uE54D\uE54E\uE54F",
-                "\uE63A\uE63B\uE63C\uE63D\uE63E\uE63F\uE64A\uE64B\uE64C\uE64D\uE64E\uE64F",
-                "\uE73A\uE73B\uE73C\uE73D\uE73E\uE73F\uE74A\uE74B\uE74C\uE74D\uE74E\uE74F",
-                "\uE83A\uE83B\uE83C\uE83D\uE83E\uE83F\uE84A\uE84B\uE84C\uE84D\uE84E\uE84F",
-                "\uE93A\uE93B\uE93C\uE93D\uE93E\uE93F\uE94A\uE94B\uE94C\uE94D\uE94E\uE94F"
+                "\uE53A\uE53B\uE53C\uE53D\uE53E\uE53F\uE54A\uE54B\uE54C\uE54D\uE54E\uE54F"
             ]
         },
         {
