@@ -37,8 +37,8 @@
         },
         {
             "type": "directory",
-            "source": "cua:item",
-            "prefix": "cua:item/"
+            "source": "cua:trims",
+            "prefix": "cua:trims/"
         },
         {
             "type": "directory",
@@ -52,8 +52,8 @@
         },
         {
             "type": "directory",
-            "source": "aua:item",
-            "prefix": "aua:item/"
+            "source": "aua:trims",
+            "prefix": "aua:trims/"
         },
         {
             "type": "directory",
